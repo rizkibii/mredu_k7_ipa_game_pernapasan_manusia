@@ -1,0 +1,100 @@
+Paru-paru;
+Permukaan tubuh;
+Insang;
+Trakea;
+|
+4-2-3-1;
+1-2-3-4;
+4-3-2-1;
+1-3-2-4;
+|
+Tempat pertukaran udara;
+Menyaring kotoran;
+Keluar masukkanya udara;
+Saluran penghubung;
+|
+Tenggorokan;
+Kerongkongan; 
+Alveolus;
+Lambung;
+|
+Oksigen;
+Nitroge`n;
+Uap air;
+Karbondioksida;
+|
+Trakea;
+Insang;
+Paru paru;
+Kulit;
+|
+Paru paru;
+Insang;
+Kulit;
+Pundi pundi udara;
+|
+Pleura;
+Bronkus;
+Alveolus`;
+Diafragma;
+|
+Ikan paus;
+Ikan bandeng;
+Ikan gurame;
+Bintang laut;
+|
+Polip;
+Bronchitis;
+Asma;
+TBC;
+|
+3;
+2;
+1;
+4;
+|
+Tempat keluar masuknya udara;
+Tempat menyaring oksigen;
+Tempat menyaring karbondioksida;
+Tempat membentuk oksigen;
+|
+Alveolus;
+Bronkus;
+Bronkiolus;
+Diafragma;
+|
+Permukaan tubuh;
+Trakea;
+Insang;
+Paru-paru;
+|
+Paru-Paru;
+Trakea;
+Insang;
+Permukaan tubuh;
+|
+Paru-Paru;
+Hidung;
+Kulit;
+Mata;
+|
+merokok;
+berolahraga secara teratur;
+makan makanan yang bergizi;
+menjaga kebersihan lingkungan agar tidak kotor dan berdebu;
+|
+Amandel;
+Asma;
+Bronchitis;
+Polip;
+|
+Stigma;
+Rongga hidung;
+Rongga mulut;
+Trakea;
+|
+Trakea;
+Kulit;
+Insang;
+Paru-paru;
+|
